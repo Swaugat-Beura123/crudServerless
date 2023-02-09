@@ -3,7 +3,7 @@ name: crudServerless
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
